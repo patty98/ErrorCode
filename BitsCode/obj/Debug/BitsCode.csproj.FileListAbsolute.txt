@@ -1,0 +1,10 @@
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\bin\Debug\BitsCode.exe.config
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\bin\Debug\BitsCode.exe
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\bin\Debug\BitsCode.pdb
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.Form1.resources
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.Properties.Resources.resources
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.csproj.GenerateResource.cache
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.exe
+D:\Disk D old\projects VS c++\BitsCode\BitsCode\obj\Debug\BitsCode.pdb
